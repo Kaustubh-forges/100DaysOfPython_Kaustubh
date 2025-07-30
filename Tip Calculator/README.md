@@ -2,7 +2,7 @@
 
 ## A simple, interactive calculator that splits a bill among a group of people, including a chosen percentage of tip for the service
 
-### **What It Teaches**
+### 📖**What It Teaches**
  - How to round upto a certain decimal point using `round()`
  - How to format and present without chaos using `f-string`
  - Displaying the use of arithmetic operations such as `+`,`*`,`/`
