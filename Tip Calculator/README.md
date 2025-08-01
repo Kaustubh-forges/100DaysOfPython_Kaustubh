@@ -1,4 +1,4 @@
-# 🎤 Tip Calculator Project | Day 2- 100 Days of Python
+# 🧮 Tip Calculator Project | Day 2- 100 Days of Python
 
 ## A simple, interactive calculator that splits a bill among a group of people, including a chosen percentage of tip for the service
 
