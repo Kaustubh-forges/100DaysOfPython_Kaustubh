@@ -1,4 +1,4 @@
-# 🔑Hangman Game Project | Day 7- 100 Days of Python
+# 👨Hangman Game Project | Day 7- 100 Days of Python
 
 ## A fun(& frustrating) game of Hangman where user tries to guess the correct word...and tries to prevent a tragic end from hanging
 
