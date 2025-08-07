@@ -1,3 +1,6 @@
+# Silent Auction Project
+
+#-------------------------
 
 # Constants
 max=0

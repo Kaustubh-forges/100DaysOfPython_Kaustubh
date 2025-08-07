@@ -1,3 +1,7 @@
+# Caesar Cipher Project
+
+#-------------------------
+
 # Modules imported
 from art import logo
 

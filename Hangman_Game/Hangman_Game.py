@@ -1,3 +1,7 @@
+# Hangman Project
+
+#-----------------
+
 # Specific components imported from modules
 import random
 from hangman_words import word_list
