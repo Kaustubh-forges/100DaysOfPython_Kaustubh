@@ -13,7 +13,7 @@ Fun fact about me: I have not drank coffee more than two times in my life... hav
 1. Open a terminal  
 2. Navigate to the project folder:
    ```bash
-   cd 100DaysOfPython_Kaustubh/"Coffee_Machine"
+   cd 100DaysOfPython_Kaustubh/Coffee_Machine
    python Coffe_machine.py
    ```
 3. You can also run the code in an IDLE such as Visual Studio Code or PyCharm
