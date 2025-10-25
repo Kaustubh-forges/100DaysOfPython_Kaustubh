@@ -12,15 +12,12 @@
 1. Open a terminal  
 2. Navigate to the project folder:
    ```bash
-   cd 100DaysOfPython_Kaustubh/"Intro to Turtle Graphics"
-   python random_walk.py  
-   python hirst_painting.py 
-   python shapes.py
-   python spirograph.py
+   cd 100DaysOfPython_Kaustubh/Email/"Birthday Wisher(Day 32) start"
+   python main.py
    ```
 3. You can also run the code in an IDLE such as Visual Studio Code or PyCharm
 ### 💻 **Sample Output**
-![Hirst Painting](img.png)
+![Email](img.png)
 
 
 ### 🙏 **Credits**
