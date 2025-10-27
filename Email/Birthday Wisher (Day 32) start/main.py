@@ -41,8 +41,8 @@ for key in birthdays_dict:
                 file.flush()
                 new_file_with_receiver_name=file.writelines(file_content)
                 file.seek(0)
-                my_email = "t61419743@gmail.com"
-                my_app_password = "qafd vdvb ecee ibmz"
+                my_email = "your_email"
+                my_app_password = "Your_password"
                 '''
                 This gmail account was made solely for testing purposes. Usually a user should  not hardcode their
                 passwords due to security purposes.
@@ -67,8 +67,8 @@ for key in birthdays_dict:
                 file2.flush()
                 new_file_with_receiver_name2 = file2.writelines(file_content2)
                 file2.seek(0)
-                my_email = "t61419743@gmail.com"
-                my_app_password = "qafd vdvb ecee ibmz"
+                my_email = "Your_email"
+                my_app_password = "Your_password"
                 with smtplib.SMTP("smtp.gmail.com") as connection: # Establishing connection between email servers
                     connection.starttls()
                     connection.login(user=my_email, password=my_app_password)
@@ -87,8 +87,8 @@ for key in birthdays_dict:
                 file3.flush()
                 new_file_with_receiver_name3=file3.writelines(file_content3)
                 file3.seek(0)
-                my_email = "t61419743@gmail.com"
-                my_app_password = "qafd vdvb ecee ibmz"
+                my_email = "Your_email"
+                my_app_password = "Your_password"
                 with smtplib.SMTP("smtp.gmail.com") as connection: # Establishing connection between email servers
                     connection.starttls()
                     connection.login(user=my_email, password=my_app_password)
